@@ -25,9 +25,9 @@
       
 ## Models Tested:  
 
-      ###  •	Logistic Regression Model 
+###  •	Logistic Regression Model 
       ###  •	Weighted Logistic Regression Model 
       ###  •	Naive Bayes Model 
       ###  •	Support Vector Machine Model
       ###  •	Decision Tree Classifier
-      ###  •	Random Forest Classifier 
+      ###  •	Random Forest Classifier  
