@@ -2,11 +2,7 @@
 
 ## Introduction:
 
-### A Pseudo bank is interested in expanding the borrowers base rapidly to bring in more business via loan interests
-### and has scored limited increase rate. The bank now interested to develop machine learning model to identify potential
-### borrowers to support focused marketing. A sample dataset containing Quasi: ID: Customer ID, Age Customer’s approximate
-### age, CustomerSince: Customer of the bank since, HighestSpend, ZipCode,  HiddenScore , MonthlyAverageSpend, Mortgage, 
-### Security Customer’s security asset, FixedDepositAccount, Internet Banking. At total of 1000 rows and 12 columns.
+### A Pseudo bank is interested in expanding the borrowers base rapidly to bring in more business via loan interestsand has scored limited increase rate. The bank now interested to develop machine learning model to identify potential borrowers to support focused marketing. A sample dataset containing Quasi: ID: Customer ID, Age Customer’s approximate age, CustomerSince: Customer of the bank since, HighestSpend, ZipCode,  HiddenScore , MonthlyAverageSpend, Mortgage, Security Customer’s security asset, FixedDepositAccount, Internet Banking. At total of 1000 rows and 12 columns.
 
 ## Goal:
 
