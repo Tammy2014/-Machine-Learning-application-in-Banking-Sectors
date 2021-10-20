@@ -11,7 +11,7 @@
 ## Approaches: 
 
 ### Performing basic Exploratory Data Analysis Importing the dataset and required libraries. Removal of unwanted features and missing data handling if required, using appropriate methods. 5. Checking data distribution using statistical techniques.  Using python libraries such as matplotlib and seaborn for data interpretation and advanced visualizations. 
-### Splitting Dataset into Train and Test using sklearn.  Training a model using Classification techniques like Logistics Regression, Naïve Bayes, Decision Tree Classifier, Random Forest Classifier and Support Vector Machine. 
+Splitting Dataset into Train and Test using sklearn.  Training a model using Classification techniques like Logistics Regression, Naïve Bayes, Decision Tree Classifier, Random Forest Classifier and Support Vector Machine. 
 
 ## Technology: 
 ### Language - Python Libraries – numpy, pandas, matplotlib, seaborn, sklearn, pickle, imblearn 
