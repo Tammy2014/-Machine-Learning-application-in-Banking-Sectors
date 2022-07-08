@@ -2,7 +2,7 @@
 
 ### Introduction:
 
-#### A bank sector  is interested in expanding  rapidly to bring in more business via loan interests and has scored limited increase rate. The bank  is now interested to develop machine learning model to identify potential borrowers to support focused marketing. A sample dataset containing : ID: Customer ID, Age Customer’s approximate age, CustomerSince: Customer of the bank since, HighestSpend, ZipCode,  HiddenScore , MonthlyAverageSpend, Mortgage, Security Customer’s security asset, FixedDepositAccount, Internet Banking. At total of 1000 rows and 12 columns.
+#### A bank sector  is interested  to develop machine learning model to identify potential borrowers to expand and  bring in more business via loan interests in focused marketing. A sample dataset containing : ID: Customer ID, Age Customer’s approximate age, CustomerSince: Customer of the bank since, HighestSpend, ZipCode,  HiddenScore , MonthlyAverageSpend, Mortgage, Security Customer’s security asset, FixedDepositAccount, Internet Banking. At total of 1000 rows and 12 columns.
 
 ### Goal:
 
